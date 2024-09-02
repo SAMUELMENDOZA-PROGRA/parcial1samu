@@ -1,0 +1,2 @@
+# parcial1samu
+actividadesparcial1semestre5
